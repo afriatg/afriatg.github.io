@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Gabriel Afriat"
-  avatar           : "Photo.png"
+  avatar           : "/images/Photo.png"
   bio              : "PhD student at the MIT Operations Research Center"
   location         : "Cambridge, Massachusetts"
   employer         :
