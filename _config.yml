@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Gabriel Afriat"
-  avatar           : "Photo.png"
+  avatar           : "images/Photo.jpg"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Cambridge, Massachusetts"
   employer         :
