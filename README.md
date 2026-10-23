@@ -34,7 +34,7 @@ Official reference: [Creating a GitHub Pages site](https://docs.github.com/en/pa
 - **Experience, education, and teaching:** edit the corresponding named sections in `index.html`.
 - **Photo:** replace `assets/profile.jpg`. The supplied photo is unchanged; CSS provides the circular framing and zoom. Adjust `.portrait img` to change `object-position` or `transform: scale(...)`.
 - **CV:** replace `assets/CV_Gabriel_Afriat.pdf`, keeping the filename.
-- **Links:** the sidebar contains email, LinkedIn, and the CV download.
+- **Links:** the sidebar contains email, Google Scholar, LinkedIn, and the CV download.
 - **Style:** edit the embedded CSS. The site uses system fonts and no network-loaded assets.
 
 The content and navigation links remain available without JavaScript. JavaScript adds a compact mobile navigation menu. Keyboard focus, a skip link, reduced-motion support, and print styles are included.
