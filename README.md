@@ -32,7 +32,7 @@ Official reference: [Creating a GitHub Pages site](https://docs.github.com/en/pa
 - **Biography:** edit the `about` section of `index.html`. It describes the owner as a fifth-year PhD student in Operations Research at MIT.
 - **Publications:** copy a `<li class="paper">` into the appropriate conference/journal or workshop list and edit the title, author list, venue, year, and paper links.
 - **Experience, education, and teaching:** edit the corresponding named sections in `index.html`.
-- **Photo:** replace `assets/profile.jpg`. The supplied photo is unchanged; CSS provides the circular framing and zoom. Adjust `.portrait img` to change `object-position` or `transform: scale(...)`.
+- **Photo:** replace `assets/profile.jpg`. The photo is a square headshot shown unzoomed; CSS provides the circular framing. To reframe a different photo, adjust `object-position` on `.portrait img` or add `transform: scale(...)`.
 - **CV:** replace `assets/CV_Gabriel_Afriat.pdf`, keeping the filename.
 - **Links:** the sidebar contains email, Google Scholar, LinkedIn, and the CV download.
 - **Style:** edit the embedded CSS. The site uses system fonts and no network-loaded assets.
